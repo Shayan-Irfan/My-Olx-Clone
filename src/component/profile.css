@@ -1,0 +1,18 @@
+.profileCard{
+    position: relative;
+    z-index: -1;
+  padding: 80px;
+    background-color: #3EBBFD;
+  top: -1em;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    
+}
+.AdHead{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10px;
+  text-decoration: underline;
+  font-weight: 700;
+}
